@@ -1,0 +1,4 @@
+经过一年多的密集工作，我们很自豪地宣布Gitpod的公测版。
+Gitpod是一个在线IDE，可以从任何GitHub页面启动。
+只需在任何GitHub-URL前加上“https：//gitpod.io#”，
+或使用我们的浏览器扩展为GitHub页面添加一个按钮。
